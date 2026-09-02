@@ -7,14 +7,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-23A5D6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## PROFESSORES E SUAS MATÉRIAS:
+## PROFESSORES E SUAS MATÉRIAS (Edição 2º Semestre):
 * ## Cainã
-  * Lógica de Programação;
-  * Arquitetura de Redes;
+  * Backend
 * ## André
-  * Banco de Dados;
-  * Arquitetura de Redes;
-* ## Gabriel
-  * Desenvolvimento WEB;
-* ## Glauco
-  * Engenharia de Software;
+  * Ciência de Dados
+  * Automação
+  * Devops
+  * Computação em Nuvem
+* ## Deivison
+  * [Frontend](https://github.com/Atividades-SENAI/DEIVISON)
